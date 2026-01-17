@@ -13,3 +13,5 @@ export const Layout = () => {
         </ScrollToTop>
     )
 }
+
+export default Layout;
